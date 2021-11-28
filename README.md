@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <h2> Hi, I'm a 🌳! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/KxbZ21Jnz4YdaLN2co/giphy.gif" width="250">
 <p><em>Software Enginner at <a href="https://daihoc.fpt.edu.vn/">FPT University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
