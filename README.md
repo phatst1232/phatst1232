@@ -15,7 +15,7 @@
 const me = {
   pronouns: "she" | "her",
   code: [Java, HTML, CSS, C++, Python, Javascript],
-  tools: [SQL server, StarUML, API],
+  tools: [SQLserver, StarUML, API],
   architecture: ["microservices", "event-driven", "design system pattern"],
   project: {
                         leader: "EventManagementWebpage",
