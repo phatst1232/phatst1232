@@ -15,8 +15,8 @@
 const me = {
   pronouns: "he" | "him",
   code: [Java, HTML, CSS, C++, Python, Javascript],
-  tools: [SQLserver, StarUML, API],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  tools: [RabbitMQ, Kafka, Redis, Firebase, Oracle, PostgreSQL, SQLserver, Postman, StarUML],
+  architecture: ["microservices", "event-driven", "singleton", "observer"],
   project: {
                         leader: "EventManagementWebpage",
                         personalProject: "VendingManchine",
